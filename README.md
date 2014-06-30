@@ -2,4 +2,6 @@ HELLO-OOM
 =========
 
 My first repository on GitHub
-update
+
+
+Version：1.0.0
